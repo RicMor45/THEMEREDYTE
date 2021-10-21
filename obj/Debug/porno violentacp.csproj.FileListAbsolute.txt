@@ -1,1 +1,9 @@
 c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\bin\Debug\porno violentacp.exe.config
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\bin\Debug\porno violentacp.exe
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\bin\Debug\porno violentacp.pdb
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno violentacp.csprojResolveAssemblyReference.cache
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno_violentacp.Form1.resources
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno_violentacp.Properties.Resources.resources
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno violentacp.csproj.GenerateResource.Cache
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno violentacp.exe
+c:\users\programacion\documents\visual studio 2013\Projects\porno violentacp\porno violentacp\obj\Debug\porno violentacp.pdb

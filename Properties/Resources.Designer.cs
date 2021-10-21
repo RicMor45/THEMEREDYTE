@@ -63,6 +63,16 @@ namespace porno_violentacp.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap imagen_sin_fondo {
+            get {
+                object obj = ResourceManager.GetObject("imagen sin fondo", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap IMG_20210921_WA0009 {
             get {
                 object obj = ResourceManager.GetObject("IMG-20210921-WA0009", resourceCulture);
